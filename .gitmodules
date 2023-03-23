@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "timeROC"]
+	path = timeROC
+	url = https://github.com/cran/timeROC
+	shallow = true
+	registered = true
+[submodule "wally"]
+	path = wally
+	url = https://github.com/cran/wally
+	shallow = true
+	registered = true
